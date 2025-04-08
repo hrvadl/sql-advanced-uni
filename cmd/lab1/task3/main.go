@@ -16,5 +16,5 @@ func main() {
 	fmt.Scan(&m, &n)
 
 	result := gcd(m, n)
-	fmt.Printf("НСД(%d, %d) = %d\n", m, n, result)
+	fmt.Printf("GCD(%d, %d) = %d\n", m, n, result)
 }
